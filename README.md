@@ -1,1 +1,1 @@
-Portfolio Website using HTML, CSS and JavaScript
+Portfolio Website using HTML, CSS and JavaScript.
